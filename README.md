@@ -19,6 +19,9 @@ https://protected-savannah-14491.herokuapp.com/?id=5e7c1adb48a7590017278713
 
 ## Demo photos
 ![Screen Shot 2020-03-25 at 11 06 01 PM](https://user-images.githubusercontent.com/59578229/77606222-47da1300-6eed-11ea-94fb-ccf44c3c8ea1.png)
+![Screen Shot 2020-03-25 at 11 21 34 PM](https://user-images.githubusercontent.com/59578229/77607001-70fba300-6eef-11ea-83fa-a5b1950eeaec.png)
+![Screen Shot 2020-03-25 at 11 24 26 PM](https://user-images.githubusercontent.com/59578229/77607148-cfc11c80-6eef-11ea-8378-259112cb7088.png)
+
 
 ## Usage On Local
 <code> node server.js </code>
